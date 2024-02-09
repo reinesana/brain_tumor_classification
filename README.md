@@ -1,2 +1,4 @@
 # brain_tumor_classification
-To detect and classify Brain Tumor using TL; as an asset of Deep Learning and to examine the tumor position(segmentation).
+The Brain Tumor Classification is a machine learning project that classifies 2D brain scan images as tumorous or not using the Brain MRI Images dataset from kaggle. The model predicts results based on a variety of MRI scans using a 2D Convolutional Neural Network. The model was built using Tensorflow. 
+
+
